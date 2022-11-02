@@ -17,7 +17,7 @@
     { "language": "MongoDB", "logo": "./images/MONGODB.png" },
     { "language": "Express", "logo": "./images/EXPRESS.png" },
     { "language": "ReactJS", "logo": "./images/REACTJS.png" },
-    { "language": "React Bootstrap", "logo": "./images/react-bootstrap.png" }
+    { "language": "React Bootstrap", "logo": "./images/react-bootstrap.png" },
     { "language": "NodeJS", "logo": "./images/NODEJS.png" },
     { "language": "Redux", "logo": "./images/REDUX.png" },
     { "language": "React Bootstrap", "logo": "./images/react-bootstrap.png" },
