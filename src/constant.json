@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "title": "MarketCart",
+      "image": "./images/MARKETCART.png",
+      "desc": "Marketcart is an Ecommerce Application, Where user can order and buy products of their choice like other ecommerce apps. This application is design for both User as well as Admin",
+      "skills": ["MongoDB", "Express", "ReactJS", "NodeJS", "Redux"],
+      "github": "/",
+      "link": ""
+    }
+  ],
+  "Skills": [
+    { "language": "HTML", "logo": "./images/HTML.png" },
+    { "language": "CSS", "logo": "./images/CSS.png" },
+    { "language": "Javascript", "logo": "./images/JS.png" },
+    { "language": "Bootstrap", "logo": "./images/BOOTSTRAP.png" },
+    { "language": "MongoDB", "logo": "./images/MONGODB.png" },
+    { "language": "Express", "logo": "./images/EXPRESS.png" },
+    { "language": "ReactJS", "logo": "./images/REACTJS.png" },
+    { "language": "React Bootstrap", "logo": "./images/react-bootstrap.png" }
+    { "language": "NodeJS", "logo": "./images/NODEJS.png" },
+    { "language": "Redux", "logo": "./images/REDUX.png" },
+    { "language": "React Bootstrap", "logo": "./images/react-bootstrap.png" },
+    { "language": "Git", "logo": "./images/GIT.png" },
+    { "language": "VS Studio", "logo": "./images/VS.png" },
+    { "language": "Postman", "logo": "./images/POSTMAN.png" }
+  ]
+}

@@ -1,0 +1,65 @@
+.contact_section {
+  top: 3vmax;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: var(--font-sans);
+  position: relative;
+}
+
+.heading_1 {
+  width: 100%;
+  position: absolute;
+  top: 0vmax;
+  left: 0;
+}
+
+.heading_2 {
+  font-size: 3.5vmax;
+  margin: 0;
+}
+
+.desc {
+  font-size: 1.5vmax;
+  width: 50vw;
+  text-align: center;
+  color: var(--slate);
+}
+
+.btn {
+  cursor: pointer;
+  outline: none;
+  font-size: 1.2vmax;
+  background: transparent;
+  border: 1px solid var(--green);
+  color: var(--green);
+  border-radius: 0.6vmax;
+  padding: 1vmax 1.2vmax;
+  width: 15vmax;
+  margin-top: 1vmax;
+}
+
+.btn:hover {
+  background: var(--green-tint);
+}
+
+@media screen and (max-width: 895px) {
+  .heading_2 {
+    position: relative;
+    bottom: 20vmax;
+  }
+  .btn {
+    position: relative;
+    bottom: 20vmax;
+    font-size: 2vmax;
+    width: 19vmax;
+  }
+  .desc {
+    position: relative;
+    bottom: 20vmax;
+    font-size: 2vmax;
+    line-height: 3vmax;
+  }
+}

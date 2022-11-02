@@ -1,0 +1,45 @@
+.contact_bar_wrapper {
+  width: 100%;
+  position: fixed;
+  bottom: 0%;
+  display: flex;
+  z-index: 9;
+  flex-direction: row-reverse;
+}
+
+.contact_bar {
+  width: 9vmax;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  position: relative;
+}
+
+.line {
+  width: 0.15vmax;
+  height: 20vmax;
+  background: var(--light-slate);
+  margin-top: 3vmax;
+}
+
+.email {
+  font-family: var(--font-sans);
+  margin-top: 1vmax;
+  cursor: pointer;
+  transition: var(--transition);
+}
+
+.icon {
+  cursor: pointer;
+  transition: var(--transition);
+}
+
+.email:hover {
+  color: var(--green);
+  margin-bottom: 0.6vmax;
+}
+
+.icon:hover {
+  color: var(--green);
+  transform: translateY(-0.6vmax);
+}

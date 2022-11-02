@@ -1,0 +1,71 @@
+.home_section {
+  width: 95vw;
+  height: 80vh;
+  display: flex;
+  margin-left: 1vmax;
+  flex-direction: column;
+  justify-content: center;
+  font-family: var(--font-sans);
+  margin-top: 10vmax;
+}
+
+.greet {
+  font-family: var(--font-mono);
+  font-size: 2vmax;
+  color: var(--green);
+  margin: 1vmax 0;
+}
+
+.heading_1 {
+  font-size: 5vmax;
+  margin: 0;
+  background-color: var(--navy);
+  color: var(--green);
+  outline: none;
+  border: none;
+}
+
+.desc {
+  font-size: 1.8vmax;
+  width: 90%;
+  line-height: 2.8vmax;
+}
+
+.btn {
+  outline: none;
+  font-size: 1.5vmax;
+  background: transparent;
+  border: 0.1vmax solid var(--green);
+  color: var(--green);
+  border-radius: 0.5vmax;
+  padding: 1.2vmax 1.5vmax;
+  width: 18vmax;
+  cursor: pointer;
+  margin-top: 1.8vmax;
+}
+
+.btn:hover {
+  background: var(--green-tint);
+}
+
+@media screen and (max-width: 700px) {
+  .greet {
+    font-size: 3.5vmax;
+    margin: 0;
+  }
+
+  .desc {
+    font-size: 2.3vmax;
+    line-height: 3.3vmax;
+    letter-spacing: 0.03vmax;
+  }
+
+  .btn {
+    font-size: 2.5vmax;
+    width: 28vmax;
+  }
+  .heading_1 {
+    margin-left: auto;
+    font-size: 3vmax;
+  }
+}

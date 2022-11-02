@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  align-items: baseline;
+  margin-bottom: 1.2vmax;
+  max-width: 90vw;
+  padding-top: 2vmax;
+}
+
+.heading {
+  font-family: var(--font-sans);
+  font-size: var(--fz-heading);
+  color: var(--lightest-slate);
+  font-weight: 600;
+  margin-left: 15px;
+}
+
+.line {
+  flex-grow: 1;
+  height: 0.1vmax;
+  background: var(--lightest-navy);
+  align-self: center;
+  margin-left: 1vmax;
+}
