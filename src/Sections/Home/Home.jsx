@@ -27,7 +27,7 @@ function Home() {
 
       <p className={styles.desc}>
         I am a passionate MERN Stack developer. And building awesome projects is
-        my hobby. Currently, searching for OPPORTUNITY.
+        my hobby.
       </p>
       <a href="#work">
         <button className={styles.btn}>Check out my work !</button>

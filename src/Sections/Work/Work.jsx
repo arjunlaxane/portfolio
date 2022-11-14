@@ -32,7 +32,7 @@ function Work() {
               </div>
               <div>
                 <a
-                  aria-disabled={project.link === '' ? true : false}
+                  disabled={project.link === '' ? true : false}
                   href={project.link}
                   className={styles.link}
                   rel="noreferrer"
@@ -45,7 +45,7 @@ function Work() {
                   )}
                 </a>
                 <a
-                  aria-disabled={project.url === '' ? true : false}
+                  disabled={project.url === '' ? true : false}
                   href={project.url}
                   rel="noreferrer"
                   className={styles.link}
