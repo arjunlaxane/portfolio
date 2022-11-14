@@ -8,13 +8,7 @@ function About() {
       <div className={styles.container}>
         <div className={styles.left}>
           <p className={styles.desc}>
-            A passionate web developer and an excellent team player with
-            knowledge in designing new features from ideation to production,
-            implementation of wireframes and design flows into high performance
-            software application and browser compatibility issues. I take into
-            consideration the user experience while writing reusable and
-            efficient code with combination of good design, technology and
-            innovation in all my projects.
+ A passionate web developer and an excellent team player with knowledge in implementation of wireframes and design flows into high performance software application from ideation to production and browser compatibility issues. I take into consideration the user experience while writing reusable and efficient code with combination of good design, technology and innovation in all my projects.
           </p>
         </div>
         <div className={styles.right}>
