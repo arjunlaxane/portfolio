@@ -4,9 +4,13 @@
       "title": "MarketCart",
       "image": "./images/MARKETCART.png",
       "desc": "Marketcart is an Ecommerce Application, Where user can order and buy products of their choice like other ecommerce apps. This application is design for both User as well as Admin",
-      "skills": ["MongoDB", "Express", "ReactJS", "NodeJS", "Redux"],
-      "github": "/",
-      "link": ""
+      "skills": ["MongoDB", "Express", "ReactJS", "NodeJS", "Redux"]
+    },
+    {
+      "title": "Food Zone",
+      "image": "./images/MARKETCART.png",
+      "desc": "A Food Delevery Application, Where user can order food items of their choice. This application is design for both User as well as Admin",
+      "skills": ["MongoDB", "Express", "ReactJS", "NodeJS", "Redux"]
     }
   ],
   "Skills": [
