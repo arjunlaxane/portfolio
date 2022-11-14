@@ -32,11 +32,11 @@ function Work() {
               </div>
               <div>
                 <a
-                  href="https://github.com/arjunlaxane/Marketcartbackend"
+                  aria-disabled={project.link === '' ? true : false}
+                  href={project.link}
                   className={styles.link}
                   rel="noreferrer"
                   target="_blank"
-                  // sx={{ cursor: 'pointer' }}
                 >
                   {window.innerWidth < 300 ? (
                     <GitHubIcon fontSize="large" />
@@ -45,11 +45,11 @@ function Work() {
                   )}
                 </a>
                 <a
-                  href="https://marketecommerceapp.herokuapp.com/"
+                  aria-disabled={project.url === '' ? true : false}
+                  href={project.url}
                   rel="noreferrer"
                   className={styles.link}
                   target="_blank"
-                  // sx={{ cursor: 'pointer' }}
                 >
                   {window.innerWidth < 300 ? (
                     <OpenInNewIcon fontSize="large" />
