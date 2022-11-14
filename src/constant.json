@@ -11,12 +11,6 @@
       "image": "./images/foodzone.png",
       "desc": "A Food Delevery Application, Where user can order food items of their choice. This application is design for both User as well as Admin",
       "skills": ["MongoDB", "Express", "ReactJS", "NodeJS", "Redux"]
-    },
-    {
-      "title": "Food Zone",
-      "image": "./images/MARKETCART.png",
-      "desc": "A Food Delevery Application, Where user can order food items of their choice. This application is design for both User as well as Admin",
-      "skills": ["MongoDB", "Express", "ReactJS", "NodeJS", "Redux"]
     }
   ],
   "Skills": [
