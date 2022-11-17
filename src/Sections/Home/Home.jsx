@@ -11,6 +11,7 @@ function Home() {
         <Typed
           strings={[
             'Frontend Developer',
+            'UI/UX Developer',
             'Backend Developer',
             'MERN Stack Developer',
             'Mobile Developer',

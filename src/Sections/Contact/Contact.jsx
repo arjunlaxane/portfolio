@@ -8,11 +8,8 @@ function Contact() {
         <Heading heading="Hire me" />
       </div>
 
-      <h1 className={styles.heading_2}>Get In Touch</h1>
-      <p className={styles.desc}>
-        Feel free to get in touch with me. I am looking for opportunities to be
-        able to grow long as a UI/UX Developer.
-      </p>
+      <h1 className={styles.heading_2}>Hire me</h1>
+      <p className={styles.desc}>Feel free to get in touch with me.</p>
       <a href="mailto:arjunlaxane@gmail.com" rel="noreferrer" target="_blank">
         <button className={styles.btn}>Let's Chat</button>
       </a>
