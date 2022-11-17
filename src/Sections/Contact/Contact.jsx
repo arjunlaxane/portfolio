@@ -8,7 +8,7 @@ function Contact() {
         <Heading heading="Hire me" />
       </div>
 
-      <h1 className={styles.heading_2}>Hire me</h1>
+      <h1 className={styles.heading_2}>Let's Connect</h1>
       <p className={styles.desc}>Feel free to get in touch with me.</p>
       <a href="mailto:arjunlaxane@gmail.com" rel="noreferrer" target="_blank">
         <button className={styles.btn}>Let's Chat</button>
