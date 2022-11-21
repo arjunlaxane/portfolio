@@ -11,10 +11,18 @@
     {
       "title": "Food Zone",
       "image": "./images/foodzone.png",
-      "desc": "A Food Delevery Application, Where user can order food items of their choice. This application is design for both User as well as Admin",
+      "desc": "A Food Delivery Application, Where user can order food items of their choice. This application is design for both User as well as Admin",
       "skills": ["MongoDB", "Express", "ReactJS", "NodeJS", "Redux"],
       "link": "https://github.com/arjunlaxane/food-zone",
       "url": "https://myfoodzoneapp.herokuapp.com/"
+    },
+    {
+      "title": "Fit-health App",
+      "image": "./images/fithealth.png",
+      "desc": "A health experts application where user can take appointment and consult with experts online",
+      "skills": ["ReactJS", "useContext"],
+      "link": "/",
+      "url": "/"
     }
   ],
   "Skills": [
