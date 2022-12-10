@@ -6,7 +6,7 @@
       "desc": "Marketcart is an Ecommerce Application, Where user can order and buy products of their choice like other ecommerce apps. This application is design for both User as well as Admin",
       "skills": ["MongoDB", "Express", "ReactJS", "NodeJS", "Redux"],
       "link": "https://github.com/arjunlaxane/Marketcartbackend",
-      "url": "https://marketecommerceapp.herokuapp.com/"
+      "url": "https://marketcart-frontend.onrender.com"
     },
     {
       "title": "Food Zone",
@@ -14,7 +14,7 @@
       "desc": "A Food Delivery Application, Where user can order food items of their choice. This application is design for both User as well as Admin",
       "skills": ["MongoDB", "Express", "ReactJS", "NodeJS", "Redux"],
       "link": "https://github.com/arjunlaxane/food-zone",
-      "url": "https://myfoodzoneapp.herokuapp.com/"
+      "url": "https://foodzone-frontend.onrender.com"
     },
     {
       "title": "Fit-health App",
