@@ -5,7 +5,7 @@
       "image": "./images/MARKETCART.png",
       "desc": "Marketcart is an Ecommerce Application, Where user can order and buy products of their choice like other ecommerce apps. This application is design for both User as well as Admin",
       "skills": ["MongoDB", "Express", "ReactJS", "NodeJS", "Redux"],
-      "link": "https://github.com/arjunlaxane/Marketcartbackend",
+      "link": "https://github.com/arjunlaxane/marketcart",
       "url": "https://marketcart-frontend.onrender.com"
     },
     {
